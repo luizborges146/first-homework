@@ -134,7 +134,9 @@ p {
     max-width: 150px;
 }
 /*changed all the search-engine-optimization from being a class to be an ID*/
-#search-engine-optimization {
+#search-engine-optimization,
+#online-reputation-management,
+#social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -142,7 +144,9 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/*As all the elements contain the same atribute, I condensed into one part of the code*/
 
+/*
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,11 +164,14 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+*/ /*As all the elements contain the same atribute, I condensed into one part of the code*/
 
-#search-engine-optimization img {
+#search-engine-optimization img,
+#online-reputation-management img,
+#social-media-marketing img {
     max-height: 200px;
 }
-
+/*
 .online-reputation-management img {
     max-height: 200px;
 }
@@ -172,22 +179,25 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+*/ /*As all the elements contain the same atribute, I condensed into one part of the code*/
 
-#search-engine-optimization h2 {
+#search-engine-optimization h2,
+#online-reputation-management h2,
+#social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/*
+#online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
+#social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+*/
 .footer {
     padding: 30px;
     clear: both;
