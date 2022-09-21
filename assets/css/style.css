@@ -14,18 +14,17 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* removed the .seo from the HTML, consolidated the color on the below elements */
 .header h1 {
     display: inline-block;
     font-size: 48px;
-    
-    
+    color: #d9dcd6;  
 }
-
+/* -Delete-
 .header h1  .seo {
     color: #d9dcd6;
 }
-
+*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -33,7 +32,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-/* Removed as the page is no showing the list-style-type
+/* Removed as the page is not showing the list-style-type
 .header div ul {
     list-style-type: none;
 }
