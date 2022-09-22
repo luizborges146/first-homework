@@ -20,15 +20,22 @@ N/A
 
 The website is a search engine optimization with a friendly user interface, contain important facts about the subject. It is a page with interactive elements using HTML and CSS.
 
+## External support documentation
+
 As part of the process, I used some references to complete the task:
 
-(https://www.w3schools.com/html/html5_semantic_elements.asp)
-(https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+<a href="https://www.w3schools.com/html/html5_semantic_elements.asp" target="_blank">Semantic Elements - W3Schools</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element" target="_blank">Mozilla Org</a>
+<a href="https://docs.readme.com/docs/linking-to-pages" target="_blank">Docs READ.me</a>
+[GitHub](https://pages.github.com/)
+[Git_cheat_sheet_pdf](https://education.github.com/git-cheat-sheet-education.pdf)
 
-<a href="https://www.google.com/" target="_blank">Google</a>
+[Horiseon website](https://luizborges146.github.io/first-homework/)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/luizborges146)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/luiz-borges-2377b7142//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/luiz.borges.146/)  
+## Social
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/luizborges146)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/luiz-borges-2377b7142//)
 
 
 N/A
