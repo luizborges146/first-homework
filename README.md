@@ -24,11 +24,11 @@ The website is a search engine optimization with a friendly user interface, cont
 
 As part of the process, I used some references to complete the task:
 
-<a href="https://www.w3schools.com/html/html5_semantic_elements.asp" target="_blank">Semantic Elements - W3Schools</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element" target="_blank">Mozilla Org</a>
-<a href="https://docs.readme.com/docs/linking-to-pages" target="_blank">Docs READ.me</a>
-[GitHub](https://pages.github.com/)
-[Git_cheat_sheet_pdf](https://education.github.com/git-cheat-sheet-education.pdf)
+<a href="https://www.w3schools.com/html/html5_semantic_elements.asp" target="_blank">Semantic Elements - W3Schools</a><br />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element" target="_blank">Mozilla Org</a><br />
+<a href="https://docs.readme.com/docs/linking-to-pages" target="_blank">Docs READ.me</a><br />
+[GitHub](https://pages.github.com/)<br />
+[Git_cheat_sheet_pdf](https://education.github.com/git-cheat-sheet-education.pdf)<br />
 
 [Horiseon website](https://luizborges146.github.io/first-homework/)
 
