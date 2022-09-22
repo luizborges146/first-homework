@@ -30,8 +30,6 @@ As part of the process, I used some references to complete the task:
 [GitHub](https://pages.github.com/)<br />
 [Git_cheat_sheet_pdf](https://education.github.com/git-cheat-sheet-education.pdf)<br />
 
-[Horiseon website](https://luizborges146.github.io/first-homework/)
-
 
 ## Social
 
