@@ -8,9 +8,9 @@
 </head>
 
 <body>
-    <header>
+    <header><!-- Changed to semantic Elements instead of divs-->
         <h1>Horiseon</h1><!-- Removed <span class="seo">seo</span> as there are no additional modification to the text-->
-        <div>
+        <nav>
             <ul>
                 <li><!--changed the div class="search-engine-optimization" to ID, so it can fix the search-->
                     <a href="#search-engine-optimization">Search Engine Optimization</a>
@@ -22,9 +22,9 @@
                     <a href="#social-media-marketing">Social Media Marketing</a>
                 </li>
             </ul>
-        </div>
+        </nav>
     </header>
-    <div class="hero"></div>
+    <div class="hero"></div><!-- Changed to semantic Elements instead of divs-->
     <div class="content"><!-- add alt on the images to make it more accessible-->
         <div id="search-engine-optimization"><!--Changing the div from class to id, this is will also fix the issue with the Search Engine Optmization link-->
             <img src="./assets/images/search-engine-optimization.jpg" alt="image contain: notebook, laptop, magnifying lens, pens, cup of coffee and wood surface" class="float-left" />
@@ -48,7 +48,8 @@
             </p>
         </div>
     </div>
-    <div class="benefits">
+
+    <aside class="benefits">
         <div class="benefit-lead">
             <h3>Lead Generation</h3><!-- add alt on the images to make it more accessible-->
             <img src="./assets/images/lead-generation.png" alt="half gear on a triangle leading to a coin" />
@@ -70,8 +71,8 @@
                 As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
             </p>
         </div>
-    </div>
-    <footer>
+    </aside>
+    <footer><!-- Changed to semantic Elements instead of divs-->
         <h2>Made with ❤️️ by Horiseon</h2>
         <p>
             &copy; 2019 Horiseon Social Solution Services, Inc.

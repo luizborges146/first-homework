@@ -25,7 +25,8 @@ header h1 {
     color: #d9dcd6;
 }
 */
-header div {
+/* modify div to nav*/
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,7 +34,7 @@ header div {
     font-size: 20px;
 }
 
-header div ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -127,7 +128,7 @@ a {
     font-size: 36px;
 }
 
-/*bottom part of the webpage and it contain copyright information as an example*/
+/*bottom part of the webpage and it contain copyright information as an example, also changed the padding to be a bit closer, as it not need 30px*/
 footer {
     padding: 10px;
     clear: both;
