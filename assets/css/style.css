@@ -14,7 +14,7 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-/* removed the .seo from the HTML, consolidated the color on the below elements */
+/* removed the <span>seo</span> from the HTML, consolidated the color on the below elements */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -46,11 +46,11 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* this is the default font size in HTML, no need to add it here
 p {
     font-size: 16px;
 }
-
+*/
 .hero {
     height: 800px;
     width: 100%;
@@ -87,11 +87,13 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit-lead,
+.benefit-brand,
+.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,12 +103,14 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-.benefit-lead h3 {
+*/
+.benefit-lead h3,
+.benefit-brand h3,
+.benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -116,13 +120,15 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
-.benefit-lead img {
+*/
+.benefit-lead img,
+.benefit-brand img,
+.benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*
 .benefit-brand img {
     display: block;
     margin: 10px auto;
@@ -134,7 +140,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/*changed all the search-engine-optimization from being a class to be an ID*/
+*/
+/*changed HTML and CSS  search-engine-optimization from being a class to be an ID*/
 #search-engine-optimization,
 #online-reputation-management,
 #social-media-marketing {
