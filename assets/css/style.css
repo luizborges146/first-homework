@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/*Add a background-color to the entire body, unless there is a class or an id with specific color*/
 body {
     background-color: #d9dcd6;
 }
-
+/*Add a font family and a background-color for the the elements on the header*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -60,7 +60,7 @@ p {
     background-position: center;
 }
 
-.float-left {
+.float-left { /*Float-left and float-right, are used to alternate the picture on the first block */
     float: left;
     margin-right: 25px;
 }
@@ -69,13 +69,13 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/*to determinate the dimantion of the <div class content> block on the right side of the web page*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/*to determinate the dimantion of the <div class benefit>  block on the right side of the web page*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -206,11 +206,13 @@ p {
     font-size: 36px;
 }
 */
+/*bottom part of the webpage and it contain copyright information as an example*/
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    
 }
 
 .footer h2 {
