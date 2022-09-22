@@ -14,7 +14,7 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-/* removed the <span>seo</span> from the HTML, consolidated the color on the below elements */
+/* removed the <span>seo</span> from the HTML, consolidated the color on the below elements as the color was to close looking almost the same*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
