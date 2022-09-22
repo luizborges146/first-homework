@@ -1,7 +1,7 @@
-# first-homework
+# Optimize website,
 Optimize website, consolidate and organize semantic structure
 
-# Optimize website,
+
 
 ## Description
 
