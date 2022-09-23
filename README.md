@@ -31,7 +31,7 @@ As part of the process, I used some references to complete the task:
 [Git_cheat_sheet_pdf](https://education.github.com/git-cheat-sheet-education.pdf)<br />
 
 
-## Social
+## Contact
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/luizborges146)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/luiz-borges-2377b7142//)
 
